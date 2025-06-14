@@ -1,9 +1,10 @@
-streamlit
-pandas
-numpy>=1.24
+numpy>=1.26
 scikit-learn
+pandas
 xgboost
-tensorflow
-keras
+streamlit
 Pillow
 opencv-python
+tensorflow
+easyocr
+torch
